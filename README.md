@@ -1,5 +1,5 @@
 ## 💫 About Me:
-#### Hi 👋, I'm Krishu Kumar<br><br> ## 👨‍💻 About Me
+#### Hi 👋, I'm Krishu Kumar<br><br>
 
 - 🚀 Backend Developer passionate about building scalable, distributed, and high-performance systems.
 - 🏗️ Experienced in Microservices Architecture, REST APIs, Event-Driven Systems, API Gateways, and Cloud Technologies.
@@ -26,7 +26,7 @@
 
 **ORM/ODM:** Mongoose, Sequelize
 
-**Cloud & DevOps:** AWS (S3, IAM), Docker
+**Cloud & DevOps:** AWS (S3), Docker
 
 **Database Platforms:** MongoDB Atlas, MongoDB Compass
 
