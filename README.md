@@ -5,7 +5,7 @@
 - 🏗️ Experienced in Microservices Architecture, REST APIs, Event-Driven Systems, API Gateways, and Cloud Technologies.
 - 💡 Built production-grade backend projects using Node.js, Express.js, MongoDB, MySQL, RabbitMQ, Redis, Docker, and AWS.
 - 📚 Strong foundation in Computer Science fundamentals including Data Structures & Algorithms, Object-Oriented Programming, Operating Systems, DBMS, Computer Networks, and Distributed Systems.
-- 🧠 Competitive Programmer with 1200+ solved DSA problems across coding platforms, focusing on Algorithms, Dynamic Programming, Graphs, Trees, Greedy, and Advanced Data Structures.
+- 🧠 Competitive Programmer solving DSA problems across coding platforms, focusing on Algorithms, Dynamic Programming, Graphs, Trees, Greedy, and Advanced Data Structures.
 - 🏆 Peak Rating of **1441 on CodeChef** and **1124 on Codeforces**, with regular participation in rated contests and algorithmic competitions.
 - 🥇 Winner of **CP Rumble**, an algorithmic programming contest organized by the TAP Cell of IIIT Ranchi.
 - 🌱 Currently exploring Go, System Design, Distributed Systems, and Cloud-Native Backend Development.
@@ -16,7 +16,7 @@
 
 **Frontend:** React, HTML5, Vite
 
-**Backend:** Node.js, Express.js, REST APIs, GraphQL, Socket.io
+**Backend:** Node.js, Express.js, REST APIs, GraphQL, Socket.io, grpc
 
 **Architecture:** Microservices, API Gateway Pattern, Event-Driven Systems
 
