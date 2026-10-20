@@ -60,4 +60,9 @@
 ![Pydantic](https://img.shields.io/badge/Pydantic_v2-%23E92063.svg?style=for-the-badge&logo=pydantic&logoColor=white)
 
 ### ⚡ Messaging & Distributed Caching
-![NATS](https://img.shields.io/badge/NATS_JetStream-%2327AAE1.svg?style=for-the-badge&
+![NATS](https://img.shields.io/badge/NATS_JetStream-%2327AAE1.svg?style=for-the-badge&logo=nats&logoColor=white)
+![Apache Kafka](https://img.shields.io/badge/Apache_Kafka-%23231F20.svg?style=for-the-badge&logo=apache-kafka&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-%23DC382D.svg?style=for-the-badge&logo=redis&logoColor=white)
+![RabbitMQ](https://img.shields.io/badge/RabbitMQ-%23FF6600.svg?style=for-the-badge&logo=rabbitmq&logoColor=white)
+
+</div>
