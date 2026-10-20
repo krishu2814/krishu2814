@@ -1,49 +1,63 @@
-## 💫 About Me:
-#### Hi 👋, I'm Krishu Kumar<br><br>
+<div align="center">
 
-- 🚀 Backend Developer passionate about building scalable, distributed, and high-performance systems.
-- 🏗️ Experienced in Microservices Architecture, REST APIs, Event-Driven Systems, API Gateways, and Cloud Technologies.
-- 💡 Built production-grade backend projects using Node.js, Express.js, MongoDB, MySQL, RabbitMQ, Redis, Docker, and AWS.
-- 📚 Strong foundation in Computer Science fundamentals including Data Structures & Algorithms, Object-Oriented Programming, Operating Systems, DBMS, Computer Networks, and Distributed Systems.
-- 🧠 Competitive Programmer solving DSA problems across coding platforms, focusing on Algorithms, Dynamic Programming, Graphs, Trees, Greedy, and Advanced Data Structures.
-- 🏆 Peak Rating of **1441 on CodeChef** and **1124 on Codeforces**, with regular participation in rated contests and algorithmic competitions.
-- 🥇 Winner of **CP Rumble**, an algorithmic programming contest organized by the TAP Cell of IIIT Ranchi.
-- 🌱 Currently exploring Go, System Design, Distributed Systems, and Cloud-Native Backend Development.
-- ⚡ Always interested in solving complex engineering problems and building scalable software solutions.
-## 🚀 Tech Stack
+# ⚡ Krishu Kumar Singh
+### Backend & Distributed Systems Engineer | Agentic AI & RAG Specialist
+*Student at Indian Institute of Information Technology (IIIT) Ranchi*
 
-**Languages:** C, C++, JavaScript, TypeScript, Go, Python
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1000&color=00ADD8&center=true&vCenter=true&width=620&lines=Distributed+Systems+%26+Microservices+Architect;Agentic+AI+%26+Advanced+RAG+Pipeline+Engineer;Java+21+%2B+Spring+Cloud+%7C+Node.js+%2B+TypeScript;FastAPI+%2B+LangGraph+%7C+NATS+JetStream+%2B+Redis;Competitive+Programmer+(CodeChef+Peak+1441))](https://git.io/typing-svg)
 
-**Frontend:** React, HTML5, Vite
+<p align="center">
+  <a href="https://linkedin.com/in/krishu-kumar-singh-77a640314"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+  <a href="mailto:krishukumarsingh06@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
+  <a href="https://github.com/krishu2814"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
+  <a href="https://www.codechef.com/users/krishu2814"><img src="https://img.shields.io/badge/CodeChef-5B4638?style=for-the-badge&logo=codechef&logoColor=white" alt="CodeChef" /></a>
+  <a href="https://codeforces.com/profile/krishu2814"><img src="https://img.shields.io/badge/Codeforces-1F8ACB?style=for-the-badge&logo=codeforces&logoColor=white" alt="Codeforces" /></a>
+  <a href="https://instagram.com/krishu.rajput06"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" /></a>
+</p>
 
-**Backend:** Node.js, Express.js, REST APIs, GraphQL, Socket.io, grpc
+</div>
 
-**Architecture:** Microservices, API Gateway Pattern, Event-Driven Systems
+---
 
-**Messaging:** RabbitMQ, WebSockets
+## 💫 About Me
 
-**Databases:** MongoDB, MySQL
+- 🚀 **Distributed Systems & Backend Engineer**: Architecting high-throughput, fault-tolerant backends using microservices, modular monoliths, event-driven architectures (EDA), and resilient API gateways.
+- 🤖 **Agentic AI & Advanced RAG Systems**: Building autonomous agent workflows and enterprise retrieval engines with LangGraph, hybrid Knowledge Graphs (Neo4j), vector embeddings, and Reciprocal Rank Fusion (RRF).
+- 🏆 **Algorithmic Problem Solving**: Peak rating of **1441 on CodeChef** & **1124 on Codeforces**. Winner of **CP Rumble** (TAP Cell, IIIT Ranchi). Deep focus on Graphs, Trees, Dynamic Programming, and Advanced Data Structures.
+- 🎓 **Academics**: Computer Science & Engineering undergraduate at **IIIT Ranchi** with a solid foundation in OS, DBMS, Computer Networks, and Distributed Systems.
+- 💡 **Engineering Philosophy**: Code with high test coverage, strict domain boundaries, idempotent transactions, and zero single points of failure.
 
-**ORM/ODM:** Mongoose, Sequelize
+---
 
-**Cloud & DevOps:** AWS (S3), Docker
+## 🛠️ Tech Stack & Tooling
 
-**Database Platforms:** MongoDB Atlas, MongoDB Compass
+<div align="center">
 
-**Data & Analytics:** NumPy, Pandas, Matplotlib, Plotly
+### 💻 Core Languages
+![Java](https://img.shields.io/badge/Java_21-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black)
+![Python](https://img.shields.io/badge/Python_3.11+-%233776AB.svg?style=for-the-badge&logo=python&logoColor=white)
+![C++](https://img.shields.io/badge/C++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+![Go](https://img.shields.io/badge/Go-%2300ADD8.svg?style=for-the-badge&logo=go&logoColor=white)
+![C](https://img.shields.io/badge/C-%23A8B9CC.svg?style=for-the-badge&logo=c&logoColor=black)
 
-**Testing & Quality:** Jest, Prettier
+### 🏗️ Backend & Distributed Architecture
+![Spring Boot](https://img.shields.io/badge/Spring_Boot_3-%236DB33F.svg?style=for-the-badge&logo=springboot&logoColor=white)
+![Spring Cloud](https://img.shields.io/badge/Spring_Cloud-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-%23339933.svg?style=for-the-badge&logo=node.js&logoColor=white)
+![Express.js](https://img.shields.io/badge/Express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB)
+![FastAPI](https://img.shields.io/badge/FastAPI-%23009688.svg?style=for-the-badge&logo=fastapi&logoColor=white)
+![GraphQL](https://img.shields.io/badge/GraphQL-%23E10098.svg?style=for-the-badge&logo=graphql&logoColor=white)
+![Socket.io](https://img.shields.io/badge/Socket.io-%23010101.svg?style=for-the-badge&logo=socket.io&logoColor=white)
+![gRPC](https://img.shields.io/badge/gRPC-%23244c5a.svg?style=for-the-badge&logo=grpc&logoColor=white)
 
-**Tools:** Git, GitHub, Postman, Nodemon
-## 🌐 Socials:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/krishu.rajput06) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/krishu-kumar-singh-77a640314) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:krishukumarsingh06@gmail.com) 
+### 🧠 Agentic AI, RAG & Knowledge Graphs
+![LangGraph](https://img.shields.io/badge/LangGraph-%23FF6F00.svg?style=for-the-badge&logo=langchain&logoColor=white)
+![LangChain](https://img.shields.io/badge/LangChain_0.3-%231C3C3C.svg?style=for-the-badge&logo=langchain&logoColor=white)
+![Neo4j](https://img.shields.io/badge/Neo4j_GraphDB-%23008CC1.svg?style=for-the-badge&logo=neo4j&logoColor=white)
+![pgvector](https://img.shields.io/badge/pgvector-%23336791.svg?style=for-the-badge&logo=postgresql&logoColor=white)
+![Pydantic](https://img.shields.io/badge/Pydantic_v2-%23E92063.svg?style=for-the-badge&logo=pydantic&logoColor=white)
 
-# 💻 Tech Stack:
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![Go](https://img.shields.io/badge/go-%2300ADD8.svg?style=for-the-badge&logo=go&logoColor=white) ![GraphQL](https://img.shields.io/badge/-GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![Nodemon](https://img.shields.io/badge/NODEMON-%23323330.svg?style=for-the-badge&logo=nodemon&logoColor=%BBDEAD) ![RabbitMQ](https://img.shields.io/badge/rabbitmq-FF6600?style=for-the-badge&logo=rabbitmq&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![Socket.io](https://img.shields.io/badge/Socket.io-black?style=for-the-badge&logo=socket.io&badgeColor=010101) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![Sequelize](https://img.shields.io/badge/Sequelize-52B0E7?style=for-the-badge&logo=Sequelize&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![Plotly](https://img.shields.io/badge/Plotly-%233F4F75.svg?style=for-the-badge&logo=plotly&logoColor=white) ![Jest](https://img.shields.io/badge/-jest-%23C21325?style=for-the-badge&logo=jest&logoColor=white) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white) ![Prettier](https://img.shields.io/badge/prettier-%23F7B93E.svg?style=for-the-badge&logo=prettier&logoColor=black) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white) ![Vite](https://img.shields.io/badge/vite-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.shion.dev/api?username=krishu2814&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://streak-stats.demolab.com/?user=krishu2814&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.shion.dev/api/top-langs/?username=krishu2814&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
-
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=krishu2814&limit=5&theme=dark&combine_all_yearly_contributions=true)
+### ⚡ Messaging & Distributed Caching
+![NATS](https://img.shields.io/badge/NATS_JetStream-%2327AAE1.svg?style=for-the-badge&
