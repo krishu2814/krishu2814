@@ -66,3 +66,12 @@
 ![RabbitMQ](https://img.shields.io/badge/RabbitMQ-%23FF6600.svg?style=for-the-badge&logo=rabbitmq&logoColor=white)
 
 </div>
+
+## 📊 Language Usage & GitHub Stats
+
+<div align="center">
+  
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=krishu2814&layout=compact&theme=radical&hide_border=true&title_color=00ADD8&text_color=ffffff&bg_color=0d1117" alt="Krishu's Top Languages" height="195"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=krishu2814&show_icons=true&theme=radical&hide_border=true&title_color=00ADD8&text_color=ffffff&bg_color=0d1117" alt="Krishu's GitHub Stats" height="195"/>
+
+</div>
