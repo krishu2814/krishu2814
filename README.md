@@ -2,7 +2,7 @@
 
 # ⚡ Krishu Kumar Singh
 *B.Tech Undergraduate at Indian Institute of Information Technology, Ranchi*
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1000&color=00ADD8&center=true&vCenter=true&width=620&lines=Distributed+Systems+%26+Microservices+Architect;Agentic+AI+%26+Advanced+RAG+Pipeline+Engineer;Java+21+%2B+Spring+Cloud+%7C+Node.js+%2B+TypeScript;FastAPI+%2B+LangGraph+%7C+NATS+JetStream+%2B+Redis;Competitive+Programmer+(CodeChef+Peak+1441))]
+![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1000&color=00ADD8&center=true&vCenter=true&width=620&lines=Distributed+Systems+%26+Microservices+Architect;Agentic+AI+%26+Advanced+RAG+Pipeline+Engineer;Java+21+%2B+Spring+Cloud+%7C+Node.js+%2B+TypeScript;FastAPI+%2B+LangGraph+%7C+NATS+JetStream+%2B+Redis;Competitive+Programmer+(CodeChef+Peak+1441))
 
 <p align="center">
   <a href="https://linkedin.com/in/krishu-kumar-singh-77a640314"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
