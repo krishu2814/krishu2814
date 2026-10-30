@@ -63,8 +63,9 @@
 
 ## 📊 GitHub Statistics
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=krishu2814&show_icons=true&theme=radical&hide_border=true&title_color=00ADD8&text_color=ffffff&bg_color=0d1117" alt="GitHub Statistics" height="180"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=krishu2814&layout=compact&theme=radical&hide_border=true&title_color=00ADD8&text_color=ffffff&bg_color=0d1117&langs_count=8" alt="Top Languages" height="180"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=krishu2814&theme=github_dark" alt="GitHub Stats" height="180"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=krishu2814&theme=github_dark" alt="Top Languages by Repo" height="180"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=krishu2814&theme=github_dark" alt="Top Languages by Commit" height="180"/>
   <br/>
   <img src="https://streak-stats.demolab.com?user=krishu2814&theme=radical&hide_border=true&background=0D1117&ring=00ADD8&fire=00ADD8&currStreakLabel=00ADD8" alt="GitHub Streak"/>
 </div>
